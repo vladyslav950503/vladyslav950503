@@ -2,7 +2,7 @@
     <a href="https://web.skype.com?id=live:seal12040315">
       <img src="https://img.shields.io/badge/skype-%230077B5.svg?&style=for-the-badge&logo=skype&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="mailto:goldenpig951204@gmail.com">
+    <a href="mailto:mykolenovladyslav87@gmail.com">
       <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>&nbsp;&nbsp;
 </p>
@@ -54,5 +54,5 @@ Talking about Personal Stuffs:
 <br><br>
 </details>
 <p align="center">
-<a href="https://github.com/goldenpig951204?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=goldenpig951204&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/vladyslav950503?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=goldenpig951204&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
 </p>
