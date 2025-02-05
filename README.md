@@ -54,5 +54,5 @@ Talking about Personal Stuffs:
 <br><br>
 </details>
 <p align="center">
-<a href="https://github.com/vladyslav950503?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=goldenpig951204&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/vladyslav950503?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=vladyslav950503&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
 </p>
